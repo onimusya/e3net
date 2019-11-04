@@ -1,0 +1,26 @@
+{
+  "name": "e3net",
+  "version": "0.0.1",
+  "description": "E3 Net Client Tool",
+  "main": "build/app",
+  "typing": "build/app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ethereum",
+    "parity",
+    "blockchain",
+    "poa"
+  ],
+  "author": "Francis Hor",
+  "license": "ISC",
+  "dependencies": {
+    "ethereumjs-tx": "^1.3.7",
+    "in3": "^2.0.4-RC1",
+    "in3-common": "^2.0.4-RC1",
+    "minimist": "^1.2.0",
+    "web3": "^1.2.2"
+  },
+  "devDependencies": {}
+}
